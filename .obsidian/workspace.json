@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "49eaf795b412d3d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "40e9cadad2412a6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428a205fd9d7c5ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e736a48d0fcc5267",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdebbdb156e16228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a168d2ae8ba257ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "745a709c8e8a95f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5005bffd6d0bdcd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4e6f4f80a5c17d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f26d066d6fff3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c82f8bc3cb73713b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "fdba2fbe1fdaf019",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "d86de6aaa0545856",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b5197b1f159c3be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "428a205fd9d7c5ab",
+  "lastOpenFiles": [
+    "_site/assets/js/main.js",
+    "_site/assets/js",
+    "_site/assets/fonts/quattrocentosans-bolditalic-webfont.svg",
+    "_site/assets/fonts/quattrocentosans-regular-webfont.woff",
+    "_site/assets/fonts/quattrocentosans-regular-webfont.ttf",
+    "_site/assets/fonts/quattrocentosans-regular-webfont.svg",
+    "_site/assets/fonts/quattrocentosans-regular-webfont.eot",
+    "_site/assets/fonts/quattrocentosans-italic-webfont.woff",
+    "_site/assets/fonts/quattrocentosans-italic-webfont.ttf",
+    "_site/assets/fonts/quattrocentosans-italic-webfont.svg",
+    "_site/assets/fonts/quattrocentosans-italic-webfont.eot",
+    "_site/assets/fonts/quattrocentosans-bolditalic-webfont.woff",
+    "_site/assets/fonts/quattrocentosans-bolditalic-webfont.ttf",
+    "_site/assets/fonts/quattrocentosans-bolditalic-webfont.eot",
+    "_site/assets/fonts/quattrocentosans-bold-webfont.svg",
+    "_site/assets/fonts/copse-regular-webfont.svg",
+    "_site/assets/images/sprite_download.png",
+    "_site/assets/images/icon_download.png",
+    "_site/assets/images/blacktocat.png",
+    "_site/assets/images/bg_hr.png",
+    "_site/Untitled.md",
+    "Untitled.md",
+    "README.md",
+    "_site/README.md"
+  ]
+}
