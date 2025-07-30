@@ -13,7 +13,7 @@ jobs:
           ruby-version: 3.2
           bundler-cache: true
       - name: Ensure bootstrap is executable
-        run: chmod +x script/bootstrap
+        run: chmod +x ../script/bootstrap
       - name: build
         run: script/bootstrap
       - name: test
