@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     name: script/cibuild
     steps:
+      - name: Ensure bootstrap is executable
+        run: chmod +x script/bootstrap
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
         with:
