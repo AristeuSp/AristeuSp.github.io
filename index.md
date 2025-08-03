@@ -29,12 +29,16 @@ Vou listar os principais componentes de software que utilizo.
 <dl>
 <dt>Python</dt>
 <dd>Linguagem de programação</dd>
+<dt>JavaScript</dt>
+<dd>Linguagem de programação</dd>
 <dt>Git</dt>
 <dd>Sistema de versionamento</dd>
 <dt>Visual Studio Code</dt>
 <dd>IDE Ambiente de Desenvolvimento Integrado</dd>
 <dt>PySide6</dt>
 <dd>Framework multiplataforma para desenvolvimento de interfaces gráficas</dd>
+<dt>Node.js</dt>
+<dd>Ambiente em tempo de execução</dd>
 <dt>SQLAlchemy</dt>
 <dd>Ferramentas SQL em Python com Object Relational Mapper</dd>
 <dt>FastAPI</dt>
