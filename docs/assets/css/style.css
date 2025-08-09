@@ -458,6 +458,7 @@ blockquote {
   margin-bottom: 20px;
   padding: 0 0 0 20px;
   border-left: 3px solid #bbb;
+  font-size: 18px;
 }
 
 ul, ol, dl {
@@ -543,7 +544,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 680px;
   padding: 20px 10px;
   margin: 0 auto;
 }

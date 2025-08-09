@@ -12,7 +12,7 @@ layout: default
 
 Minha origem profissional é _Desktop Publishing_ para as áreas editorial jornalistica e publicidade onde implantei setores de pré-impressão, dei suporte, treinei e produzi. 
 
-Programação e desenvolvimento vieram das necessidades dessas áreas, de três anos para cá resolvi me aprofundar na linguagem _Python_ que me levou aos _frameworks_ modernos inexistentes na época, <abbr title="Object Relational Mapping">ORM</abbr> para bancos de dados, as <abbr title="Application Programming Interface">APIs</abbr> para integração e distribuição de dados, _FastAPI_, _JsonRPC_. Arquitetura <abbr title="Model View Controller">MCV</abbr> para aplicações web e desktop. _Pandas_ para análise de dados. 
+Programação e desenvolvimento vieram das necessidades dessas áreas, de três anos para cá resolvi me aprofundar na linguagem _Python_ que me levou aos _frameworks_ modernos inexistentes na época, <abbr title="Object Relational Mapping">ORM</abbr> para bancos de dados, as <abbr title="Application Programming Interface">APIs</abbr> para integração e distribuição de dados, _FastAPI_, _JsonRPC_, _REST_. Arquitetura <abbr title="Model View Controller">MCV</abbr> para aplicações web e desktop. _Pandas_ para análise de dados. 
 
 Estou finalizando um projeto relacionado a filmes e séries voltado ao consumidor final no ambiente doméstico. É impressionante a riqueza e volume do fluxo de informações disponíveis e, ao mesmo tempo, a complexidade e dinamismo envolvido.
 
