@@ -44,6 +44,11 @@ h1 {
     .header > h1 {
         font-size: 80px;
     }
+
+    .mobnav {
+        display: none;
+    }
+
     .topnav {
         grid-area: na;
         position: sticky;
@@ -56,8 +61,24 @@ h1 {
         align-items: center;
         width: 100%;
         justify-content: center;
+        color: rgb(85, 158, 84);
+        text-align: center;
+        font-weight: bolder;
+        text-decoration: none;
+        background-color: rgba(251, 169, 10, 0.2);
         border-top: 2px solid rgb(251, 169, 10);
         border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+    }
+    .topnav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+    .topnav > div {
+        margin: 0 10px 0 10px;
+        padding: 0 10px 0 10px;
     }
     /* Style the links inside the navigation bar */
     .topnav a {
@@ -109,7 +130,7 @@ h1 {
 }
 /* End of GREAT media query */
 
-/* Layout para telas pequenas usando linhas e colunas */
+/* Layout para telas PEQUENAS usando linhas e colunas */
 @media (max-width: 499px) {
     .wrapper {
         display: grid;
@@ -133,11 +154,66 @@ h1 {
         font-size: 65px;
     }
     .topnav {
-        grid-row: 2;
+        display: none;
     }
-    .topnav a {
+    .mobnav {
+        grid-row: 2;
+        position: sticky;
+        top: var(--header-height);
+        height: auto;
+        display: flex;
+        flex: 0 0 auto;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+        width: 100%;
+        justify-content: center;
+        background-color: rgba(251, 169, 10, 0.2);
+        color: rgb(85, 158, 84);
+        text-align: center;
+        font-weight: bolder;
+        text-decoration: none;
+        border-top: 2px solid rgb(251, 169, 10);
+        border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+    }
+    .mobnav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+    .mobnav > div {
+        margin: 0 10px 0 10px;
+        padding: 0 10px 0 10px;
+    }
+    /* Style the links inside the navigation bar */
+    .mobnav a {
+        float: left;
+        display: block;
+        font-weight: normal;
+        color: rgb(154, 7, 148);
+        width: 80px;
+        text-align: center;
         text-decoration: none;
     }
+
+    .mobnav a:hover {
+        background-color: rgb(251, 169, 10);
+    }
+    /* Add an active class to highlight the current page */
+    .mobnav a.active {
+        font-weight: bold;
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+        text-underline-offset: 4px;
+    }
+    /* Hide the link that should open and close the topnav on small screens */
+    .mobnav .icon {
+        display: none;
+    }
+
+
     .main-content {
         grid-row: 3;
         padding: 0 0.2em 0 0.3em;
@@ -193,27 +269,7 @@ h1 {
     color: rgb(85, 158, 84);
     text-shadow: 4px 6px 8px black;
 }
-.topnav {
-    background-color: rgba(251, 169, 10, 0.2);
-}
-.topnav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-.topnav {
-    color: rgb(85, 158, 84);
-    text-align: center;
-    font-weight: bolder;
-    text-decoration: none;
-}
-/* Minha versão inclui isso */
-.topnav > div {
-    margin: 0 10px 0 10px;
-    padding: 0 10px 0 10px;
-}
+
 .left-side {
     background-color: rgb(243, 253, 243);
     z-index: -1;
