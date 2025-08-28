@@ -1,0 +1,65 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import NavAe from "../components/NavAe.astro";
+
+type Props = CollectionEntry<'blog'>['data'];
+
+const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+import '../styles/unified-pages-styles.css';
+// LAYOUT sem <style> embutido só o importado
+---
+
+<html lang="pt-BR">
+    <head>
+    <meta name="title" content={title} />
+    <meta name="description" content={description} />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Irish+Grover&family=Noto+Serif:ital,wdth,wght@0,87.5,700;1,87.5,700&display=swap" rel="stylesheet">
+
+    <BaseHead title={title} description={description} />
+
+    <title>{title}</title>
+</head>
+
+	<body>
+    <div class="wrapper">
+            <header class="header">
+                <h1>AristeuSp</h1>
+            </header>
+            <nav class="topnav">
+                <NavAe />
+            </nav>
+
+			<div class="main-content">
+				<div class="hero-image">
+					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
+				</div>
+				<div class="main-content prose">
+					<div class="title">
+						<div class="date">
+							<FormattedDate date={pubDate} />
+							{
+								updatedDate && (
+									<div class="last-updated-on">
+										Last updated on <FormattedDate date={updatedDate} />
+									</div>
+								)
+							}
+						</div>
+						<h1>{title}</h1>
+						<hr />
+					</div>
+                    <slot />
+				</div>
+			</div>
+            <div class="footer">
+		        <Footer />
+            </div>
+        </div>
+	</body>
+</html>
