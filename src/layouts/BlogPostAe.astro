@@ -5,6 +5,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import NavAe from "../components/NavAe.astro";
+import NavEaMobile from '../components/NavAeMobile.astro'
 
 type Props = CollectionEntry<'blog'>['data'];
 
@@ -33,6 +34,9 @@ import '../styles/unified-pages-styles.css';
             </header>
             <nav class="topnav">
                 <NavAe />
+            </nav>
+            <nav class="mobnav">
+                <NavEaMobile />
             </nav>
 
 			<div class="main-content">
