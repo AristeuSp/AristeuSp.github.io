@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Hamburger Interativo</title>
+    <style>
+        .fechado { background: #eee; }
+        .aberto { background: #cfc; }
+    </style>
+</head>
+<body>
+<div id="reactapp">
+    <p>Hello World. This is a React Component rendered inside Astro</p>
+    <button id="hamburger" class="fechado">&#9776;</button>
+    <span id="mensagem" style="display:none;">O botão está aberto!</span>
+</div>
+<script>
+    const btn = document.getElementById('hamburger');
+    const msg = document.getElementById('mensagem');
+    btn.addEventListener('click', function() {
+        const aberto = btn.classList.toggle('aberto');
+        btn.classList.toggle('fechado', !aberto);
+        msg.style.display = aberto ? 'inline' : 'none';
+    });
+</script>
+</body>
+</html>
