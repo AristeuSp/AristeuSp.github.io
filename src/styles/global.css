@@ -18,14 +18,14 @@
 }
 @font-face {
 	font-family: "Atkinson";
-	src: url("fonts/atkinson-regular.woff") format("woff");
+	src: url("public/fonts/atkinson-regular.woff") format("woff");
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
 	font-family: "Atkinson";
-	src: url("fonts/atkinson-bold.woff") format("woff");
+	src: url("public/fonts/atkinson-bold.woff") format("woff");
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
@@ -125,7 +125,7 @@ pre > code {
 blockquote {
 	border-left: 4px solid var(--accent);
 	padding: 0 0 0 20px;
-	margin: 0px;
+	margin: 0;
 	font-size: 1.333em;
 }
 hr {
