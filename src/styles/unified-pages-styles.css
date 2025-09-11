@@ -14,12 +14,13 @@ body {
     background-color: rgb(243, 253, 243);
 }
 
-h1 {
-    text-align: center;
-    color: white;
+h1, h2 {
+    text-align: left;
     line-height: var(--header-height);
     margin: 0;
 }
+
+
 
 /* Layout para telas GRANDES usando grid areas */
 @media (min-width: 500px) {
@@ -243,7 +244,7 @@ h1 {
 .main-content {
     background-color: rgb(243, 253, 243);
 }
-.main-content h1, h2, h3, h4, h5, h6 {
+.main-content h1, h2, h4, h5, h6 {
     font-family: "Noto Serif", serif;
     font-optical-sizing: auto;
     font-weight: 700;
@@ -252,6 +253,8 @@ h1 {
     color: black;
     line-height: normal;
 }
+
+
 .header {
     position: sticky;
     align-items: center;
@@ -264,7 +267,7 @@ h1 {
     font-family: "Irish Grover", system-ui;
     font-weight: 400;
     font-style: normal;
-    text-align: center;
+    text-align: left;
     margin: 0;
     color: rgb(85, 158, 84);
     text-shadow: 4px 6px 8px black;

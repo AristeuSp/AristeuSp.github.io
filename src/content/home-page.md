@@ -1,71 +1,35 @@
----
----
-# Aristeu Escobar
+### Atenção
+> Empregadores, Empreendedores de tecnologia, Apaixonados por inovação, Cientistas de dados. Ou mesmo aqueles que somente PRETENDEM ser alguma dessas coisas.
 
-> Mais de três décadas de experiência em TI, atualmente focado em 
-> ferramentas modernas para necessidades antigas. Posso integrar equipes 
-> de desenvolvimento ou ajudar a criar novas soluções. 
+# Tenho uma proposta fascinante
+O nome do projeto é `undisclousured by now` mas que você pode imaginar pela *tagline*
+### _Caso de uso de filmes e séries. Caso de uso do quê_?
+# De NoSQL
+Para ter uma ideia de como é vibrante esse campo dê uma olhada nessa lista nua e crua.
+#### Tipos e exemplos
 
-## Histórico
+[Document store](app://obsidian.md/wiki/Document-oriented_database "Document-oriented database") [Azure Cosmos DB](app://obsidian.md/wiki/Azure_Cosmos_DB "Azure Cosmos DB"), [ArangoDB](app://obsidian.md/wiki/ArangoDB "ArangoDB"), [BaseX](app://obsidian.md/wiki/BaseX "BaseX"), [Clusterpoint](app://obsidian.md/wiki/Clusterpoint "Clusterpoint"), [Couchbase](app://obsidian.md/wiki/Couchbase "Couchbase"), [CouchDB](app://obsidian.md/wiki/CouchDB "CouchDB"), [DocumentDB](app://obsidian.md/wiki/DocumentDB "DocumentDB"), [eXist-db](app://obsidian.md/wiki/EXist "EXist"), [Google Cloud Firestore](app://obsidian.md/wiki/Firestore "Firestore"), [IBM Domino](app://obsidian.md/wiki/Lotus_Notes "Lotus Notes"), [MarkLogic](app://obsidian.md/wiki/MarkLogic "MarkLogic"), [MongoDB](app://obsidian.md/wiki/MongoDB "MongoDB"), [RavenDB](app://obsidian.md/wiki/RavenDB "RavenDB"), [Qizx](app://obsidian.md/wiki/Qizx "Qizx"), [RethinkDB](app://obsidian.md/wiki/RethinkDB "RethinkDB"), [Elasticsearch](app://obsidian.md/wiki/Elasticsearch "Elasticsearch"), [OrientDB](app://obsidian.md/wiki/OrientDB "OrientDB") [Graph database](app://obsidian.md/wiki/Graph_database "Graph database") [Azure Cosmos DB](app://obsidian.md/wiki/Azure_Cosmos_DB "Azure Cosmos DB"), [AllegroGraph](app://obsidian.md/wiki/AllegroGraph "AllegroGraph"), [ArangoDB](app://obsidian.md/wiki/ArangoDB "ArangoDB"), [Apache Giraph](app://obsidian.md/wiki/Apache_Giraph "Apache Giraph"), [GUN (Graph Universe Node)](app://obsidian.md/wiki/GUN_\(graph_database\) "GUN (graph database)"), [InfiniteGraph](app://obsidian.md/wiki/InfiniteGraph "InfiniteGraph"), [MarkLogic](app://obsidian.md/wiki/MarkLogic "MarkLogic"), [Neo4J](app://obsidian.md/wiki/Neo4J "Neo4J"), [OrientDB](app://obsidian.md/wiki/OrientDB "OrientDB"), [Virtuoso](app://obsidian.md/wiki/Virtuoso_Universal_Server "Virtuoso Universal Server") Key–value cache [Apache Ignite](app://obsidian.md/wiki/Apache_Ignite "Apache Ignite"), [Couchbase](app://obsidian.md/wiki/Couchbase "Couchbase"), [Coherence](app://obsidian.md/wiki/Oracle_Coherence "Oracle Coherence"), [eXtreme Scale](app://obsidian.md/wiki/IBM_WebSphere_eXtreme_Scale "IBM WebSphere eXtreme Scale"), [Hazelcast](app://obsidian.md/wiki/Hazelcast "Hazelcast"), [Infinispan](app://obsidian.md/wiki/Infinispan "Infinispan"), [Memcached](app://obsidian.md/wiki/Memcached "Memcached"), [Redis](app://obsidian.md/wiki/Redis "Redis"), Velocity [Key–value store](app://obsidian.md/wiki/Key%E2%80%93value_database "Key–value database") [Azure Cosmos DB](app://obsidian.md/wiki/Azure_Cosmos_DB "Azure Cosmos DB"), [ArangoDB](app://obsidian.md/wiki/ArangoDB "ArangoDB"), [Amazon DynamoDB](app://obsidian.md/wiki/Amazon_DynamoDB "Amazon DynamoDB"), [Aerospike](app://obsidian.md/wiki/Aerospike_\(database\) "Aerospike (database)"), [Couchbase](app://obsidian.md/wiki/Couchbase "Couchbase"), [ScyllaDB](app://obsidian.md/wiki/Scylla_\(database\) "Scylla (database)") Key–value store (eventually consistent) [Azure Cosmos DB](app://obsidian.md/wiki/Azure_Cosmos_DB "Azure Cosmos DB"), [Oracle NoSQL Database](app://obsidian.md/wiki/Oracle_NoSQL_Database "Oracle NoSQL Database"), [Riak](app://obsidian.md/wiki/Riak "Riak"), [Voldemort](app://obsidian.md/wiki/Voldemort_\(distributed_data_store\) "Voldemort (distributed data store)") Key–value store (ordered) [FoundationDB](app://obsidian.md/wiki/FoundationDB "FoundationDB"), [InfinityDB](app://obsidian.md/wiki/InfinityDB "InfinityDB"), [LMDB](app://obsidian.md/wiki/Lightning_Memory-Mapped_Database "Lightning Memory-Mapped Database"), [MemcacheDB](app://obsidian.md/wiki/MemcacheDB "MemcacheDB") [Multivalue database](app://obsidian.md/wiki/MultiValue "MultiValue") D3 [Pick database](app://obsidian.md/wiki/Pick_database "Pick database"), [Extensible Storage Engine](app://obsidian.md/wiki/Extensible_Storage_Engine "Extensible Storage Engine") (ESE/NT), [InfinityDB](app://obsidian.md/wiki/InfinityDB "InfinityDB"), [InterSystems Caché](app://obsidian.md/wiki/InterSystems_Cach%C3%A9 "InterSystems Caché"), jBASE [Pick database](app://obsidian.md/wiki/Pick_database "Pick database"), mvBase [Rocket Software](app://obsidian.md/wiki/Rocket_Software "Rocket Software"), mvEnterprise [Rocket Software](app://obsidian.md/wiki/Rocket_Software "Rocket Software"), [Northgate Information Solutions](app://obsidian.md/wiki/Northgate_Information_Solutions "Northgate Information Solutions") Reality (the original Pick/MV Database), OpenQM, Revelation Software's OpenInsight (Windows) and Advanced Revelation (DOS), UniData [Rocket U2](app://obsidian.md/wiki/Rocket_U2 "Rocket U2"), UniVerse [Rocket U2](app://obsidian.md/wiki/Rocket_U2 "Rocket U2") Native multi-model database [ArangoDB](app://obsidian.md/wiki/ArangoDB "ArangoDB"), [Azure Cosmos DB](app://obsidian.md/wiki/Azure_Cosmos_DB "Azure Cosmos DB"), [OrientDB](app://obsidian.md/wiki/OrientDB "OrientDB"), [MarkLogic](app://obsidian.md/wiki/MarkLogic_Server "MarkLogic Server"), [Apache Ignite](app://obsidian.md/wiki/Apache_Ignite "Apache Ignite"),[[22]](app://obsidian.md/index.html#cite_note-22)[[23]](app://obsidian.md/index.html#cite_note-23) [Couchbase](app://obsidian.md/wiki/Couchbase "Couchbase"), [FoundationDB](app://obsidian.md/wiki/FoundationDB "FoundationDB"), [Oracle Database](app://obsidian.md/wiki/Oracle_Database "Oracle Database"), AgensGraph [Object database](app://obsidian.md/wiki/Object_database "Object database") [Objectivity/DB](app://obsidian.md/wiki/Objectivity/DB "Objectivity/DB"), [Perst](app://obsidian.md/wiki/Perst "Perst"), [ZODB](app://obsidian.md/wiki/Zope_Object_Database "Zope Object Database"), [db4o](app://obsidian.md/wiki/Db4o "Db4o"), [GemStone/S](app://obsidian.md/wiki/Gemstone_\(database\) "Gemstone (database)"), [InterSystems Caché](app://obsidian.md/wiki/InterSystems_Cach%C3%A9 "InterSystems Caché"), [JADE](app://obsidian.md/wiki/JADE_\(programming_language\) "JADE (programming language)"), [ObjectDatabase++](app://obsidian.md/wiki/ObjectDatabase%2B%2B "ObjectDatabase++"), [ObjectDB](app://obsidian.md/wiki/ObjectDB "ObjectDB"), [ObjectStore](app://obsidian.md/wiki/ObjectStore "ObjectStore"), [ODABA](app://obsidian.md/wiki/Odaba "Odaba"), [Realm](app://obsidian.md/wiki/Realm_\(database\) "Realm (database)"), [OpenLink Virtuoso](app://obsidian.md/wiki/Virtuoso_Universal_Server "Virtuoso Universal Server"), [Versant Object Database](app://obsidian.md/wiki/Versant_Object_Database "Versant Object Database"), [Indexed Database API](app://obsidian.md/wiki/Indexed_Database_API "Indexed Database API") [Triplestore](app://obsidian.md/wiki/Triplestore "Triplestore") [AllegroGraph](app://obsidian.md/wiki/AllegroGraph "AllegroGraph"), [MarkLogic](app://obsidian.md/wiki/MarkLogic_Server "MarkLogic Server"), [Ontotext-OWLIM](app://obsidian.md/wiki/Ontotext "Ontotext"), [Oracle NoSQL database](app://obsidian.md/wiki/Oracle_NoSQL_Database "Oracle NoSQL Database"), Profium Sense, [Virtuoso Universal Server](app://obsidian.md/wiki/Virtuoso_Universal_Server "Virtuoso Universal Server") Tuple store [Apache River](app://obsidian.md/wiki/Jini "Jini"), [GigaSpaces](app://obsidian.md/wiki/GigaSpaces "GigaSpaces"), [Tarantool](app://obsidian.md/wiki/Tarantool "Tarantool"), [TIBCO](app://obsidian.md/wiki/TIBCO_Software "TIBCO Software") ActiveSpaces, [OpenLink Virtuoso](app://obsidian.md/wiki/Virtuoso_Universal_Server "Virtuoso Universal Server") [Wide-column store](app://obsidian.md/wiki/Wide-column_store "Wide-column store") [Azure Cosmos DB](app://obsidian.md/wiki/Azure_Cosmos_DB "Azure Cosmos DB"), [Amazon DynamoDB](app://obsidian.md/wiki/Amazon_DynamoDB "Amazon DynamoDB"), [Bigtable](app://obsidian.md/wiki/Bigtable "Bigtable"), [Cassandra](app://obsidian.md/wiki/Apache_Cassandra "Apache Cassandra"), [Google Cloud Datastore](app://obsidian.md/wiki/Google_Cloud_Datastore "Google Cloud Datastore"), [HBase](app://obsidian.md/wiki/Apache_HBase "Apache HBase"), [Hypertable](app://obsidian.md/wiki/Hypertable "Hypertable"), [ScyllaDB](app://obsidian.md/wiki/Scylla_\(database\) "Scylla (database)")
 
-Minha origem profissional é _Desktop Publishing_ para as áreas editorial jornalistica e publicidade onde implantei setores de pré-impressão, dei suporte, treinei e produzi. 
+# Porque filmes e séries?
+### Por vários motivos, não necessariamente nessa ordem
+1. Sou apaixonado por isso, quase tanto como por essas maquininhas infernais vulgarmente chamadas de computadores com os quais tenho um caso antigo. Muito antigo, de idos de 1988
+2. Filmes e séries é hoje uma área também extremamente vibrante e disponível e que, brincando brincando, dependendo de até onde quiser chegar é de média a alta ou até muito alta complexidade.
+3. Na minha opinião é o exemplo mais típico em que os conceitos e promessas de organizar, criar e consumir dados de forma inovadora e flexível que motivam enfim, o "sonho" do **NoSQL** brilham de fato.
+4. Para quem já sofreu tanto com essas maquininhas infernais e meio burras o próximo paradigma é obvio e passa por ai, para que fiquem um poco mais espertas e sociáveis. Para quem não sabe IA não existiria sem esse conceito (e muitos outros) e vice-versa.
+5. E finalmente mas não por último, tenho anos e anos debruçado sobre isso.
 
-Programação e desenvolvimento vieram das necessidades dessas áreas, de três anos para cá resolvi me aprofundar na linguagem _Python_ que me levou aos _frameworks_ modernos inexistentes na época, <abbr title="Object Relational Mapping">ORM</abbr> para bancos de dados, as <abbr title="Application Programming Interface">APIs</abbr> para integração e distribuição de dados, _FastAPI_, _JsonRPC_, _REST_. Arquitetura <abbr title="Model View Controller">MCV</abbr> para aplicações web e desktop. _Pandas_ para análise de dados. 
+# O que tenho a oferecer?
 
-Estou finalizando um projeto relacionado a filmes e séries voltado ao consumidor final no ambiente doméstico. É impressionante a riqueza e volume do fluxo de informações disponíveis e, ao mesmo tempo, a complexidade e dinamismo envolvidos.
+### Muito
 
-No _Front End_, é de chorar de felicidade diante do salto de paradigma que os novos recursos padronizados, livremente produzidos e "eternamente gratuítos e mantidos" oferecem ao profissional sério que tanto sofreu no passado procurando soluções próprias. Hoje os "compromissos de dependência" inexistem -- sabendo como -- tudo é possível gratuitamente e na forma científica e pragmaticamente **correta**.
+Começando mas não principalmente, pelo **meu próprio laboratório**, totalmente funcional e que (apesar de tudo) só me dá alegria. *Tipo o Corinthians*.
 
-A <abbr title="Inteligência Artificial">IA</abbr> está aí para compensar pelo aumento de complexidade. Existem <abbr title="Model Context Protocol">MCP</abbr> gratuitos especialistas no feijão com arroz do "como é mesmo que...", a produtividade agradeçe.
+A possibilidade de integrar imediatamente em produção, fruto do acúmulo de intensa e penosa prospecção que JÁ gastei e investi e que está ficando redonda, totalmente **open source**. Nem pensar em gastar com software.
 
+Por outro lado já estou integrado e produzindo na área em que **realmente vale a pena pensar em gastar hoje**, nas *Plataforma como Serviço*, se quiser ter uma idea *extremamente simplificada* da coisa, pesquise a sigla **PaaS**. Onde temos os dois principais expoentes da área muito próximos a nós aqui em São Paulo, Brasil. A **AWS** da Amazon e a **Azure** da Microsoft.
 
-## Recursos
+Tem muito mais que posso listar que posso oferecer *a-preço-modico*, mas acho que até aqui já está suficiente.
 
-Tenho um ambiente de desenvolvimento completo instalado nas minhas dependências, sábiamente "curado". Com excelente acesso a essas tecnologias, posso integrar e auxiliar em uma ampla gama de projetos a partir de agora sem necessidade de novos investimentos. 
+# Oferta por tempo limitado
+> Contrate-me como parceiro antes que outro o faça! Topo *trial contract*.
 
-## Especializações
-
-Vou listar os principais componentes de software que utilizo. 
-
-<dl>
-<dt>Python</dt>
-<dd>Linguagem de programação</dd>
-<dt>Node.js</dt>
-<dd>Ambiente em tempo de execução amplamente disponível</dd>
-<dt>JavaScript / TypeScript</dt>
-<dd>Linguagem de programação</dd>
-<dt>Git</dt>
-<dd>Sistema de versionamento</dd>
-<dt>Visual Studio Code</dt>
-<dd>IDE Ambiente de Desenvolvimento Integrado</dd>
-<dt>WebStorm</dt>
-<dd>IDE especializado em desenvolvimento Web</dd>
-<dt>PySide6</dt>
-<dd>Framework multiplataforma para desenvolvimento de interfaces gráficas</dd>
-<dt>SQLAlchemy</dt>
-<dd>Ferramentas SQL em Python com Object Relational Mapper</dd>
-<dt>FastAPI</dt>
-<dd>Framework web para construção de API</dd>
-<dt>PowerShell</dt>
-<dd>Shell de linha de comando</dd>
-<dt>CEF</dt>
-<dd>Chromium Embedded Framework</dd>
-<dt>Ruby</dt>
-<dd>Linguagem de programação</dd>
-<dt>Tecnologias Web diversas</dt>
-<dd>HTML, CSS3, JavaScript, Bootstrap, JQuery, Sass, Flask, Django, Express, Astro, Jekyll etc...</dd>
-<dt>Obsidian</dt>
-<dd>Sistema de gestão de conhecimento pessoal baseado em markdown</dd>
-<dt>Sistemas Operacionais</dt>
-<dd>Windows, Ubuntu, Android</dd>
-<dt>Kodi</dt>
-<dd>Centro de entretenimento multimídia e multiplataforma de código aberto</dd>
-<dt>Office365</dt>
-<dd>Pacote de aplicativos para documentos, planilhas, apresentações etc.</dd>
-<dt>Gimp</dt>
-<dd>Tratamento de imagens</dd>
-<dt>Inkscape</dt>
-<dd>Desenho e ilustração vetorial</dd>
-<dt>Scribus</dt>
-<dd>Paginação e Desktop Publishing</dd>
-</dl>
