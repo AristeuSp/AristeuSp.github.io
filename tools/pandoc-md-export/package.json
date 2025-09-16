@@ -1,0 +1,17 @@
+{
+  "name": "pandoc-md-export",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "pandoc-md": "cli.js"
+  },
+  "description": "CLI simples para exportar Markdown para HTML5 via Pandoc (HTML standalone, com opções de CSS e highlight).",
+  "license": "MIT",
+  "keywords": [
+    "pandoc",
+    "markdown",
+    "html",
+    "export",
+    "cli"
+  ]
+}

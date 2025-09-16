@@ -19,6 +19,7 @@
     "@types/react": "^19.1.12",
     "@types/react-dom": "^19.1.9",
     "astro": "^5.13.2",
+    "github-markdown-css": "^5.8.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "sharp": "^0.34.2",

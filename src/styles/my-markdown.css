@@ -1,0 +1,93 @@
+/* Escopo ao preview */
+body {
+    /* seu exemplo */
+    background-color: #3fb950;
+    color: #0a0a0a;
+    line-height: 1.6;
+    font-size: 16px;
+    padding: 24px;
+}
+
+/* Títulos */
+body h1 { font-size: 2rem; margin: 1.2em 0 0.5em; }
+body h2 { font-size: 1.6rem; margin: 1.1em 0 0.5em; }
+body h3 { font-size: 1.35rem; margin: 1em 0 0.5em; }
+
+/* Parágrafos e links */
+body p { margin: 0.75em 0; }
+body a { color: #0969da; text-decoration: underline; }
+body a:hover { text-decoration: none; }
+
+/* Listas */
+body ul, body ol { padding-left: 1.5em; margin: 0.6em 0; }
+body li { margin: 0.25em 0; }
+body li input[type="checkbox"] { margin-right: 0.5em; }
+
+/* Blockquotes */
+body blockquote {
+    margin: 1em 0;
+    padding: 0.5em 1em;
+    border-left: 4px solid rgba(0,0,0,0.2);
+    background: rgba(0,0,0,0.03);
+}
+
+/* Código */
+body code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+    font-size: 0.95em;
+    background: rgba(0,0,0,0.06);
+    padding: 0.1em 0.3em;
+    border-radius: 4px;
+}
+body pre {
+    padding: 12px;
+    overflow: auto;
+    background: #0d1117;
+    color: #e6edf3;
+    border-radius: 6px;
+}
+body pre code {
+    background: transparent;
+    padding: 0;
+}
+
+/* Tabelas */
+body table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    font-variant-numeric: tabular-nums;
+}
+body th, body td {
+    border: 1px solid rgba(0,0,0,0.15);
+    padding: 8px 10px;
+}
+body thead th {
+    background: rgba(0,0,0,0.05);
+    text-align: left;
+}
+
+/* Separador */
+body hr {
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,0.2);
+    margin: 1.5em 0;
+}
+
+/* Preferência de tema escuro */
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #e6edf3;
+        background-color: #0d1117; /* ajuste se quiser manter o verde, remova esta linha */
+    }
+    body blockquote {
+        border-left-color: rgba(255,255,255,0.25);
+        background: rgba(255,255,255,0.03);
+    }
+    body th, body td {
+        border-color: rgba(255,255,255,0.15);
+    }
+    body thead th {
+        background: rgba(255,255,255,0.06);
+    }
+}
